@@ -1,0 +1,7 @@
+# INSERT INTO user (username, password, email, first_name, last_name, birthday, role) VALUES  ('SuttyRead1', '$2a$10$wK3q4IDuxBQD1WSpsCWEJ.DpFNYRexcb86Wiw5ZZax.K/VqUFMmXe', 'SuttyRead1@gmail.com', 'Sutty', 'Read', '1986-02-07', 'USER');
+# INSERT INTO user (username, password, email, first_name, last_name, birthday, role) VALUES  ('SuttyRead2', 'SuttyRead2', 'SuttyRead2@gmail.com', 'Sutty', 'Read', '1986-02-07', 'USER');
+# INSERT INTO user (username, password, email, first_name, last_name, birthday, role) VALUES  ('SuttyRead3', 'SuttyRead3', 'SuttyRead3@gmail.com', 'Sutty', 'Read', '1986-02-07', 'USER');
+INSERT INTO user (username, password, email, first_name, last_name, birthday, role) VALUES  ('admin', '$2a$10$wK3q4IDuxBQD1WSpsCWEJ.DpFNYRexcb86Wiw5ZZax.K/VqUFMmXe', 'admin@gmail.com', 'Admin', 'Admin', '1986-02-07', 'ADMIN');
+INSERT INTO user (username, password, email, first_name, last_name, birthday, role) VALUES  ('SuttyRead1', '$2a$10$mxdYXo9d5V26ROikHDlage8fITfnBD3W5./Rw9z/Xp.MPXvnlvXK2', 'SuttyRead1@gmail.com', 'Sutty', 'Read', '1986-02-07', 'USER');
+INSERT INTO user (username, password, email, first_name, last_name, birthday, role) VALUES  ('SuttyRead2', '$2a$10$R1cXBBdyuyuV/l5cTpbMKuOncADlvBIAWg8Khi8jSSoJTnNlrzmM.', 'SuttyRead2@gmail.com', 'Sutty', 'Read', '1986-02-07', 'USER');
+INSERT INTO user (username, password, email, first_name, last_name, birthday, role) VALUES  ('SuttyRead3', '$2a$10$ilby67gRwVqLVYokUuKKIugs7WZJyULccUYOnOiDmKw8X.BLpQ5gu', 'SuttyRead3@gmail.com', 'Sutty', 'Read', '1986-02-07', 'USER');
